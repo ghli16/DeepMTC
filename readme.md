@@ -16,7 +16,9 @@ The code has been tested running under Python 3.8.16. The required packages are 
 
 ## Files
 
-1.Dataset: goa_human_isoform.gaf and goa_mouse_isoform.gaf store the protein sequence GO annotation information; idmapping_2024_03_19 (1).xlsx store the protein multi-label subcellular localization; HM.fasta store the protein sequence.
+1.Dataset: goa_human_isoform.gaf and goa_mouse_isoform.gaf store the protein sequence GO annotation information; 
+           idmapping_2024_03_19 (1).xlsx store the protein multi-label subcellular localization; 
+           HM.fasta store the protein sequence.
 
 2. model_para: save the optimal parameters of the model
 
