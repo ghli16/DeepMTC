@@ -1,6 +1,6 @@
 ## DeepMTC：Predict protein multi-label subcellular localization and function
 
-This is the repository related to our manuscript Deep learning model for protein multi-label subcellular localization and function prediction based on multi-task collaborative training, currently in submission at Knowledge-based Systems.
+This is the repository related to our manuscript Deep learning model for protein multi-label subcellular localization and function prediction based on multi-task collaborative training, currently in submission at Expert Systems With Applications.
 
 ## Code
 ### Environment Requirement
